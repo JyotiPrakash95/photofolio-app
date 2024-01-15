@@ -1,6 +1,7 @@
 .navbar {
   height: 70px;
   background-color: rgb(160, 160, 249);
+  background-image: linear-gradient(#f7898096, #0053b173);
 }
 
 .logo {
